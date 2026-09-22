@@ -2,6 +2,7 @@
 apple
 banana
 orange
+测试合并
 grape
 nihao 
 同步
