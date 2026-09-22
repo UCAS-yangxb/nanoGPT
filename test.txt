@@ -4,3 +4,4 @@ banana
 orange
 grape
 nihao 
+同步
